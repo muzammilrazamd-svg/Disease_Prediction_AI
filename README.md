@@ -7,6 +7,13 @@ based on patient symptoms using a trained classification model.
 > demonstration and is NOT a medical diagnostic system. Predictions must not be
 > used for medical decisions. Always consult a qualified healthcare professional.
 
+## Live Demo
+
+Try the deployed Streamlit app: [Disease Prediction AI](https://disease-prediction-genai.streamlit.app/).
+
+> The live app is for educational demonstration only. Do not use its predictions
+> to make medical decisions.
+
 ## Technologies Used
 
 - Python 3.13
