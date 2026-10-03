@@ -185,7 +185,7 @@ with tab2:
 
     with col2:
         st.metric("Training Samples", "3,936")
-        st.metric("Test Accuracy", "99.49%")
+        st.metric("Test Accuracy", "89.49%")
 
     with col3:
         st.metric("Disease Classes", "41")
